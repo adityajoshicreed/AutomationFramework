@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomationSuite" parallel="methods" thread-count="2">
+  <test thread-count="4" name="Test">
+    <packages>
+      <package name="smoketest"/>
+    </packages>
+  </test> <!-- Test -->
+</suite> <!-- AutomationSuite -->

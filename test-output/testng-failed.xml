@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" guice-stage="DEVELOPMENT" name="Failed suite [AutomationSuite]" parallel="methods">
+  <test thread-count="4" name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="smoketest.Search2SmokeTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="startUp"/>
+          <include name="afterSuite"/>
+          <include name="search2SmokeTest" invocation-numbers="0"/>
+          <include name="afterTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- smoketest.Search2SmokeTest -->
+      <class name="smoketest.SearchSmokeTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="startUp"/>
+          <include name="afterSuite"/>
+          <include name="searchTest" invocation-numbers="0"/>
+          <include name="afterTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- smoketest.SearchSmokeTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [AutomationSuite] -->

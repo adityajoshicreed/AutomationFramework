@@ -1,0 +1,1523 @@
+2018-12-24 19:16:38 [main] DEBUG Start Loggin:35 - Test Failed
+2018-12-24 19:16:38 [main] DEBUG Start Loggin:35 - Test Failed
+2018-12-24 19:17:13 [main] DEBUG Start Loggin:35 - Test Failed
+2018-12-24 19:17:13 [main] DEBUG Start Loggin:35 - Test Failed
+2018-12-24 19:18:26 [main] DEBUG Start Loggin:35 - Test Failed
+2018-12-24 19:18:26 [main] DEBUG Start Loggin:35 - Test Failed
+2018-12-24 19:19:44 [main] INFO  Start Loggin:51 - Started the Test
+2018-12-24 19:19:48 [main] DEBUG Start Loggin:35 - Test Failed
+2018-12-24 19:19:48 [main] DEBUG Start Loggin:35 - Test Failed
+2018-12-24 19:22:51 [main] INFO  Start Loggin:53 - Started the tes on browserChrome
+2018-12-24 19:22:56 [main] DEBUG Start Loggin:37 - Test Failed
+2018-12-24 19:22:56 [main] DEBUG Start Loggin:37 - Test Failed
+2018-12-24 19:23:15 [main] INFO  Start Loggin:53 - Started the tes on browser Chrome
+2018-12-24 19:23:19 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:23:19 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:29:13 [main] INFO  Start Loggin:53 - Started the test on browser Chrome
+2018-12-24 19:29:18 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:29:18 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:29:18 [main] INFO  Start Loggin:58 - Stopped the test
+2018-12-24 19:29:56 [main] INFO  Start Loggin:53 - Started the test on browser Chrome
+2018-12-24 19:30:01 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:30:01 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:30:01 [main] INFO  Start Loggin:58 - Stopped the test
+2018-12-24 19:30:21 [main] INFO  Start Loggin:20 - Entering text in searchBox
+2018-12-24 19:30:21 [main] INFO  Start Loggin:26 - Pressed Enter Key
+2018-12-24 19:31:19 [main] INFO  Start Loggin:53 - Started the test on browser Chrome
+2018-12-24 19:31:23 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:31:24 [main] INFO  Start Loggin:58 - Stopped the test
+2018-12-24 19:31:59 [main] INFO  Start Loggin:20 - Entering text in searchBox
+2018-12-24 19:31:59 [main] INFO  Start Loggin:26 - Pressed Enter Key
+2018-12-24 19:32:22 [main] INFO  Start Loggin:53 - Started the test on browser Chrome
+2018-12-24 19:32:27 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:32:27 [main] INFO  Start Loggin:58 - Stopped the test
+2018-12-24 19:32:50 [main] INFO  Start Loggin:53 - Started the test on browser Chrome
+2018-12-24 19:32:54 [main] INFO  Start Loggin:37 - Test Failed
+2018-12-24 19:32:55 [main] INFO  Start Loggin:58 - Stopped the test
+2018-12-24 19:33:48 [main] INFO  Start Loggin:54 - Started the test on browser Chrome
+2018-12-24 19:33:52 [main] INFO  Start Loggin:38 - Test Failed
+2018-12-24 19:33:53 [main] INFO  Start Loggin:59 - Stopped the test
+2018-12-24 19:34:26 [main] INFO  Start Loggin:54 - Started the test on browser Chrome
+2018-12-24 19:34:30 [main] INFO  Start Loggin:38 - Test Failed
+2018-12-24 19:34:30 [main] INFO  Start Loggin:59 - Stopped the test
+2018-12-24 19:35:28 [main] INFO  Start Loggin:54 - Started the test on browser Chrome
+2018-12-24 19:35:32 [main] INFO  Start Loggin:38 - Test Failed
+2018-12-24 19:35:32 [main] INFO  Start Loggin:59 - Stopped the test
+2018-12-24 19:36:10 [main] INFO  Start Loggin:54 - Started the test on browser Chrome
+2018-12-24 19:36:14 [main] INFO  Start Loggin:28 - Started the Test
+2018-12-24 19:36:16 [main] INFO  Start Loggin:33 - Test Passed Successfully
+2018-12-24 19:36:17 [main] INFO  Start Loggin:59 - Stopped the test
+2018-12-24 19:36:52 [main] INFO  Start Loggin:54 - Started the test on browser Chrome
+2018-12-24 19:36:56 [main] INFO  Start Loggin:28 - Started the searchTest
+2018-12-24 19:36:58 [main] INFO  Start Loggin:33 - Test Passed Successfully
+2018-12-24 19:36:59 [main] INFO  Start Loggin:59 - Stopped the test
+2018-12-24 19:38:17 [main] INFO  Start Loggin:52 - Started the test on browser Chrome
+2018-12-24 19:38:39 [main] INFO  Start Loggin:26 - Started the searchTest
+2018-12-24 19:38:39 [main] INFO  Start Loggin:20 - Entering text in searchBox
+2018-12-24 19:38:39 [main] INFO  Start Loggin:36 - Test Failed
+2018-12-24 19:38:40 [main] INFO  Start Loggin:57 - Stopped the test
+2018-12-24 19:38:57 [main] INFO  Start Loggin:52 - Started the test on browser Chrome
+2018-12-24 19:39:18 [main] INFO  Start Loggin:26 - Started the searchTest
+2018-12-24 19:39:18 [main] INFO  Start Loggin:20 - Entering text in searchBox
+2018-12-24 19:39:19 [main] INFO  Start Loggin:36 - Test Failed
+2018-12-24 19:39:19 [main] INFO  Start Loggin:57 - Stopped the test
+2018-12-24 19:42:52 [main] INFO  Start Loggin:52 - Started the test on browser Chrome
+2018-12-24 19:42:57 [main] INFO  Start Loggin:26 - Started the searchTest
+2018-12-24 19:42:57 [main] INFO  Start Loggin:20 - Entering text in searchBox
+2018-12-24 19:42:57 [main] INFO  Start Loggin:26 - Pressed Enter Key
+2018-12-24 19:42:58 [main] INFO  Start Loggin:31 - Test Passed Successfully
+2018-12-24 19:42:59 [main] INFO  Start Loggin:57 - Stopped the test
+2018-12-24 19:47:24 [main] INFO  Log:52 - Started the test on browser Chrome
+2018-12-24 19:47:29 [main] INFO  Log:26 - Started the || searchTest ||
+2018-12-24 19:47:29 [main] INFO  Log:20 - Entering text in searchBox
+2018-12-24 19:47:29 [main] INFO  Log:26 - Pressed Enter Key
+2018-12-24 19:47:30 [main] INFO  Log:31 - Test Passed Successfully
+2018-12-24 19:47:31 [main] INFO  Log:57 - Stopping the execution
+2018-12-25 19:37:40 [main] INFO  Log:59 - Started the test on browser Chrome
+2018-12-25 19:37:47 [main] INFO  Log:31 - Started the || searchTest ||
+2018-12-25 19:37:47 [main] INFO  Log:43 - Test Failed
+2018-12-25 19:37:48 [main] INFO  Log:65 - Stopping the execution
+2018-12-25 19:39:23 [main] INFO  Log:58 - Started the test on browser Chrome
+2018-12-25 19:39:28 [main] INFO  Log:30 - Started the || searchTest ||
+2018-12-25 19:39:28 [main] INFO  Log:42 - Test Failed
+2018-12-25 19:39:28 [main] INFO  Log:64 - Stopping the execution
+2018-12-25 19:40:13 [main] INFO  Log:58 - Started the test on browser Chrome
+2018-12-25 19:40:17 [main] INFO  Log:30 - Started the || searchTest ||
+2018-12-25 19:40:17 [main] INFO  Log:20 - Entering text in searchBox
+2018-12-25 19:40:17 [main] INFO  Log:26 - Pressed Enter Key
+2018-12-25 19:40:20 [main] INFO  Log:36 - Test Passed Successfully
+2018-12-25 19:40:21 [main] INFO  Log:64 - Stopping the execution
+2018-12-25 19:48:22 [main] INFO  Log:59 - Started the test on browser Chrome
+2018-12-25 19:48:27 [main] INFO  Log:31 - Started the || searchTest ||
+2018-12-25 19:48:27 [main] INFO  Log:20 - Entering text in searchBox
+2018-12-25 19:48:27 [main] INFO  Log:26 - Pressed Enter Key
+2018-12-25 19:48:29 [main] INFO  Log:37 - Test Passed Successfully
+2018-12-25 19:48:30 [main] INFO  Log:65 - Stopping the execution
+2018-12-25 19:53:09 [main] INFO  Log:59 - Started the test on browser Chrome
+2018-12-25 19:53:14 [main] INFO  Log:31 - Started the || searchTest ||
+2018-12-25 19:53:14 [main] INFO  Log:20 - Entering text in searchBox
+2018-12-25 19:53:15 [main] INFO  Log:26 - Pressed Enter Key
+2018-12-25 19:53:17 [main] INFO  Log:37 - Test Passed Successfully
+2018-12-25 19:53:18 [main] INFO  Log:65 - Stopping the execution
+2019-02-01 18:41:15 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-01 18:41:22 [main] INFO  Log:31 - Started the || searchTest ||
+2019-02-01 18:41:22 [main] INFO  Log:20 - Entering text in searchBox
+2019-02-01 18:41:22 [main] INFO  Log:26 - Pressed Enter Key
+2019-02-01 18:41:26 [main] INFO  Log:37 - Test Passed Successfully
+2019-02-01 18:41:27 [main] INFO  Log:65 - Stopping the execution
+2019-02-01 18:46:10 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-01 18:46:18 [main] INFO  Log:31 - Started the || searchTest ||
+2019-02-01 18:46:18 [main] INFO  Log:22 - Entering text in searchBox
+2019-02-01 18:46:18 [main] INFO  Log:43 - Test Failed
+2019-02-01 18:46:19 [main] INFO  Log:65 - Stopping the execution
+2019-02-01 18:47:06 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-01 18:47:13 [main] INFO  Log:31 - Started the || searchTest ||
+2019-02-01 18:47:14 [main] INFO  Log:22 - Entering text in searchBox
+2019-02-01 18:47:14 [main] INFO  Log:29 - Pressed Enter Key
+2019-02-01 18:47:17 [main] INFO  Log:37 - Test Passed Successfully
+2019-02-01 18:47:18 [main] INFO  Log:65 - Stopping the execution
+2019-02-01 18:49:30 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-01 18:49:38 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 18:49:38 [main] INFO  Log:20 - Entering text in searchBox
+2019-02-01 18:49:38 [main] INFO  Log:27 - Pressed Enter Key
+2019-02-01 18:49:42 [main] INFO  Log:32 - Test Passed Successfully
+2019-02-01 18:49:42 [main] INFO  Log:60 - Stopping the execution
+2019-02-01 18:53:29 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 18:53:36 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 18:53:36 [main] INFO  Log:20 - Entering text in searchBox
+2019-02-01 18:53:36 [main] INFO  Log:27 - Pressed Enter Key
+2019-02-01 18:53:38 [main] INFO  Log:32 - Test Passed Successfully
+2019-02-01 18:53:39 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 19:04:04 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 19:04:12 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 19:04:12 [main] INFO  Log:23 - Entering text in searchBox
+2019-02-01 19:04:16 [main] INFO  Log:29 - Pressed Enter Key
+2019-02-01 19:04:16 [main] INFO  Log:32 - Test Passed Successfully
+2019-02-01 19:04:17 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 19:08:40 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 19:08:47 [TestNG-test=Test-1] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 19:08:47 [TestNG-test=Test-1] INFO  Log:23 - Entering text in searchBox
+2019-02-01 19:08:52 [TestNG-test=Test-1] INFO  Log:29 - Pressed Enter Key
+2019-02-01 19:08:52 [TestNG-test=Test-1] INFO  Log:32 - Test Passed Successfully
+2019-02-01 19:08:52 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 19:10:11 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 19:10:16 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 19:10:16 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 19:10:16 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-01 19:10:16 [TestNG-test=Test-1] INFO  Log:23 - Entering text in searchBox
+2019-02-01 19:10:19 [TestNG-test=Test-1] INFO  Log:29 - Pressed Enter Key
+2019-02-01 19:10:19 [TestNG-test=Test-1] INFO  Log:32 - Test Passed Successfully
+2019-02-01 19:10:19 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 19:11:12 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 19:11:18 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 19:11:18 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 19:11:19 [TestNG-test=Test-2] INFO  Log:23 - Entering text in searchBox
+2019-02-01 19:11:19 [TestNG-test=Test-1] INFO  Log:23 - Entering text in searchBox
+2019-02-01 19:11:21 [TestNG-test=Test-2] INFO  Log:29 - Pressed Enter Key
+2019-02-01 19:11:21 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-01 19:11:21 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 19:11:21 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:09:17 [main] INFO  Log:23 - Entering text in searchBox
+2019-02-01 20:12:14 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:12:14 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:12:21 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:12:21 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:12:21 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:12:21 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:12:24 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:12:24 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-01 20:12:24 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:12:24 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-01 20:12:25 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:12:25 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:13:16 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:13:24 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:13:24 [main] INFO  Log:23 - Entering text in searchBox
+2019-02-01 20:13:28 [main] INFO  Log:29 - Pressed Enter Key
+2019-02-01 20:13:28 [main] INFO  Log:32 - Test Passed Successfully
+2019-02-01 20:13:29 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:13:42 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:13:51 [main] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:13:51 [main] INFO  Log:23 - Entering text in searchBox
+2019-02-01 20:13:55 [main] INFO  Log:29 - Pressed Enter Key
+2019-02-01 20:13:55 [main] INFO  Log:32 - Test Passed Successfully
+2019-02-01 20:13:55 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:14:03 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:14:03 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:14:11 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:14:11 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:14:11 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:14:11 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:14:14 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-01 20:14:14 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-01 20:14:14 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:14:14 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:14:14 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:14:15 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:15:11 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:15:11 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:15:19 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:15:19 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:15:19 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:15:19 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:15:22 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-01 20:15:22 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-01 20:15:22 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:15:22 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:15:23 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:15:23 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:16:41 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:16:42 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:16:46 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:16:46 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:16:46 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:16:46 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:16:46 [TestNG-test=Test-2] INFO  Log:23 - Entering text in searchBox
+2019-02-01 20:16:47 [TestNG-test=Test-1] INFO  Log:23 - Entering text in searchBox
+2019-02-01 20:16:50 [TestNG-test=Test-2] INFO  Log:29 - Pressed Enter Key
+2019-02-01 20:16:50 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-01 20:16:50 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-01 20:16:50 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:16:50 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:16:51 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:16:51 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:17:31 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:17:31 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-01 20:17:35 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:17:35 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:17:35 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-01 20:17:35 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-01 20:17:36 [TestNG-test=Test-2] INFO  Log:23 - Entering text in searchBox
+2019-02-01 20:17:36 [TestNG-test=Test-1] INFO  Log:23 - Entering text in searchBox
+2019-02-01 20:17:39 [TestNG-test=Test-2] INFO  Log:29 - Pressed Enter Key
+2019-02-01 20:17:39 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-01 20:17:39 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-01 20:17:39 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:17:39 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-01 20:17:40 [main] INFO  Log:61 - Stopping the execution
+2019-02-01 20:17:40 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:14:14 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:14:14 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:14:16 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:14:16 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:14:16 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:14:16 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:14:16 [TestNG-test=Test-2] INFO  Log:23 - Entering text in searchBox
+2019-02-02 18:14:16 [TestNG-test=Test-1] INFO  Log:23 - Entering text in searchBox
+2019-02-02 18:14:19 [TestNG-test=Test-2] INFO  Log:29 - Pressed Enter Key
+2019-02-02 18:14:19 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-02 18:14:19 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-02 18:14:19 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:14:19 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:14:20 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:14:20 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:17:17 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:17:17 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:17:19 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:17:19 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:17:19 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:17:19 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:17:19 [TestNG-test=Test-2] INFO  Log:23 - Entering text in searchBox
+2019-02-02 18:17:19 [TestNG-test=Test-1] INFO  Log:23 - Entering text in searchBox
+2019-02-02 18:17:22 [TestNG-test=Test-2] INFO  Log:29 - Pressed Enter Key
+2019-02-02 18:17:22 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-02 18:17:22 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-02 18:17:22 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:17:22 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:17:22 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:17:23 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:18:52 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:18:52 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:18:52 [TestNG-test=Test-1] INFO  Log:44 - Test Skipped
+2019-02-02 18:18:52 [TestNG-test=Test-1] INFO  Log:44 - Test Skipped
+2019-02-02 18:18:52 [TestNG-test=Test-2] INFO  Log:44 - Test Skipped
+2019-02-02 18:18:52 [TestNG-test=Test-2] INFO  Log:44 - Test Skipped
+2019-02-02 18:18:52 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:18:52 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:39:51 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:39:52 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:39:56 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:39:56 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:39:56 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-02 18:39:56 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-02 18:39:57 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:39:57 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:39:57 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:39:57 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:39:57 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:39:58 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:40:44 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:40:44 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:40:49 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:40:49 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:40:49 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-02 18:40:49 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-02 18:40:49 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:40:49 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:40:49 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:40:49 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:40:50 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:40:50 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:41:21 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:41:21 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-02 18:41:27 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:41:27 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-02 18:41:27 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:41:27 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:41:27 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-02 18:41:27 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-02 18:41:27 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-02 18:41:27 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-02 18:41:27 [main] INFO  Log:61 - Stopping the execution
+2019-02-02 18:41:28 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:20:29 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:20:29 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:20:37 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-03 19:20:37 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:20:37 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-03 19:20:37 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:20:37 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-03 19:20:37 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-03 19:20:37 [TestNG-test=Test-2] INFO  Log:38 - Test Failed
+2019-02-03 19:20:37 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-03 19:20:38 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:20:38 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:42:27 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:42:30 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:42:30 [main] INFO  Log:38 - Test Failed
+2019-02-03 19:42:30 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:42:57 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:43:00 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:43:00 [main] INFO  Log:38 - Test Failed
+2019-02-03 19:43:00 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:43:22 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:43:25 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:43:25 [main] INFO  Log:38 - Test Failed
+2019-02-03 19:43:26 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:44:28 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:44:31 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:44:31 [main] INFO  Log:38 - Test Failed
+2019-02-03 19:44:31 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:45:01 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:45:05 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:45:06 [main] INFO  Log:23 - Entering text in searchBox
+2019-02-03 19:45:11 [main] INFO  Log:29 - Pressed Enter Key
+2019-02-03 19:45:11 [main] INFO  Log:32 - Test Passed Successfully
+2019-02-03 19:45:11 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:45:51 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:45:56 [main] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:45:56 [main] INFO  Log:23 - Entering text in searchBox
+2019-02-03 19:45:58 [main] INFO  Log:29 - Pressed Enter Key
+2019-02-03 19:45:58 [main] INFO  Log:32 - Test Passed Successfully
+2019-02-03 19:45:59 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:46:05 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:46:05 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:46:05 [TestNG-test=Test-2] INFO  Log:44 - Test Skipped
+2019-02-03 19:46:05 [TestNG-test=Test-2] INFO  Log:44 - Test Skipped
+2019-02-03 19:46:09 [TestNG-test=Test-1] INFO  Log:44 - Test Skipped
+2019-02-03 19:46:09 [TestNG-test=Test-1] INFO  Log:44 - Test Skipped
+2019-02-03 19:46:09 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:46:09 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:47:33 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:47:33 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:47:33 [TestNG-test=Test-2] INFO  Log:44 - Test Skipped
+2019-02-03 19:47:33 [TestNG-test=Test-2] INFO  Log:44 - Test Skipped
+2019-02-03 19:47:37 [TestNG-test=Test-1] INFO  Log:44 - Test Skipped
+2019-02-03 19:47:37 [TestNG-test=Test-1] INFO  Log:44 - Test Skipped
+2019-02-03 19:47:37 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:47:37 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:50:14 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:50:14 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:50:19 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:50:19 [TestNG-test=Test-2] INFO  Log:26 - Started the || searchTest ||
+2019-02-03 19:50:19 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-03 19:50:19 [TestNG-test=Test-1] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-03 19:50:19 [TestNG-test=Test-2] INFO  Log:23 - Entering text in searchBox
+2019-02-03 19:50:19 [TestNG-test=Test-1] INFO  Log:23 - Entering text in searchBox
+2019-02-03 19:50:23 [TestNG-test=Test-2] INFO  Log:29 - Pressed Enter Key
+2019-02-03 19:50:23 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-03 19:50:23 [TestNG-test=Test-2] INFO  Log:32 - Test Passed Successfully
+2019-02-03 19:50:23 [TestNG-test=Test-1] INFO  Log:29 - Pressed Enter Key
+2019-02-03 19:50:23 [TestNG-test=Test-1] INFO  Log:32 - Test Passed Successfully
+2019-02-03 19:50:23 [TestNG-test=Test-1] INFO  Log:32 - Test Passed Successfully
+2019-02-03 19:50:24 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:50:24 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:52:20 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-03 19:52:25 [main] INFO  Log:26 - Started the || search2SmokeTest ||
+2019-02-03 19:52:25 [main] INFO  Log:23 - Entering text in searchBox
+2019-02-03 19:52:27 [main] INFO  Log:29 - Pressed Enter Key
+2019-02-03 19:52:27 [main] INFO  Log:32 - Test Passed Successfully
+2019-02-03 19:52:28 [main] INFO  Log:61 - Stopping the execution
+2019-02-03 19:58:30 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 19:58:30 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 19:58:35 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 19:58:35 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 19:58:35 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 19:58:35 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 19:58:35 [TestNG-test=Test-2] INFO  Log:25 - Entering text in searchBox
+2019-02-03 19:58:35 [TestNG-test=Test-2] INFO  Log:39 - Test Failed
+2019-02-03 19:58:35 [TestNG-test=Test-2] INFO  Log:39 - Test Failed
+2019-02-03 19:58:35 [TestNG-test=Test-1] INFO  Log:25 - Entering text in searchBox
+2019-02-03 19:58:35 [TestNG-test=Test-1] INFO  Log:39 - Test Failed
+2019-02-03 19:58:35 [TestNG-test=Test-1] INFO  Log:39 - Test Failed
+2019-02-03 19:58:36 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 19:58:36 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:11:44 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:11:44 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:11:50 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:11:50 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:11:50 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:11:50 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:11:50 [TestNG-test=Test-2] INFO  Log:25 - Entering text in searchBox
+2019-02-03 20:11:50 [TestNG-test=Test-1] INFO  Log:25 - Entering text in searchBox
+2019-02-03 20:11:54 [TestNG-test=Test-1] INFO  Log:31 - Pressed Enter Key
+2019-02-03 20:11:54 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:11:54 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:11:54 [TestNG-test=Test-2] INFO  Log:31 - Pressed Enter Key
+2019-02-03 20:11:54 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:11:54 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:11:55 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:11:55 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:16:29 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:16:29 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:16:35 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-03 20:16:35 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-03 20:16:35 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-03 20:16:35 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-03 20:16:35 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:16:35 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:19:47 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:19:47 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:19:52 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-03 20:19:52 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-03 20:19:53 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-03 20:19:53 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-03 20:19:53 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:19:53 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:20:16 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:20:16 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:20:21 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:20:21 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:20:21 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:20:21 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:20:21 [TestNG-test=Test-2] INFO  Log:25 - Entering text in searchBox
+2019-02-03 20:20:21 [TestNG-test=Test-1] INFO  Log:25 - Entering text in searchBox
+2019-02-03 20:20:25 [TestNG-test=Test-1] INFO  Log:31 - Pressed Enter Key
+2019-02-03 20:20:25 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:20:25 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:20:25 [TestNG-test=Test-2] INFO  Log:31 - Pressed Enter Key
+2019-02-03 20:20:25 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:20:25 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:20:26 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:20:26 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:21:51 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:21:51 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:21:56 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-03 20:21:56 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-03 20:21:56 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-03 20:21:56 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-03 20:21:56 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:21:56 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:26:23 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:26:23 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:26:28 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:26:28 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:26:28 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:26:28 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:26:28 [TestNG-test=Test-2] INFO  Log:25 - Entering text in searchBox
+2019-02-03 20:26:28 [TestNG-test=Test-1] INFO  Log:25 - Entering text in searchBox
+2019-02-03 20:26:31 [TestNG-test=Test-1] INFO  Log:31 - Pressed Enter Key
+2019-02-03 20:26:31 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:26:31 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:26:32 [TestNG-test=Test-2] INFO  Log:31 - Pressed Enter Key
+2019-02-03 20:26:32 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:26:32 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:26:33 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:26:33 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:27:51 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:27:51 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:27:56 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:27:56 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:27:56 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:27:56 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:28:00 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:28:00 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:28:00 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:28:00 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:28:01 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:28:01 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:29:44 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:29:44 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-03 20:29:49 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:29:49 [TestNG-test=Test-1] INFO  Log:27 - Started the || search2SmokeTest ||
+2019-02-03 20:29:49 [TestNG-test=Test-1] INFO  Log:25 - Entering text in searchBox as Creed Band
+2019-02-03 20:29:49 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:29:49 [TestNG-test=Test-2] INFO  Log:27 - Started the || searchTest ||
+2019-02-03 20:29:49 [TestNG-test=Test-2] INFO  Log:25 - Entering text in searchBox as Metallica
+2019-02-03 20:29:52 [TestNG-test=Test-1] INFO  Log:31 - Pressed Enter Key
+2019-02-03 20:29:52 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:29:52 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:29:53 [TestNG-test=Test-2] INFO  Log:31 - Pressed Enter Key
+2019-02-03 20:29:53 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:29:53 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-03 20:29:54 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:29:54 [main] INFO  Log:62 - Stopping the execution
+2019-02-03 20:32:51 [main] INFO  Log:60 - Started the test on browser Chrome
+2019-02-03 20:32:51 [main] INFO  Log:60 - Started the test on browser Chrome
+2019-02-03 20:32:56 [TestNG-test=Test-2] INFO  Log:31 - Started the || searchTest ||
+2019-02-03 20:32:56 [TestNG-test=Test-2] INFO  Log:31 - Started the || searchTest ||
+2019-02-03 20:32:56 [TestNG-test=Test-1] INFO  Log:31 - Started the || search2SmokeTest ||
+2019-02-03 20:32:56 [TestNG-test=Test-1] INFO  Log:31 - Started the || search2SmokeTest ||
+2019-02-03 20:32:56 [TestNG-test=Test-2] INFO  Log:29 - Entering text in searchBox as Metallica
+2019-02-03 20:32:56 [TestNG-test=Test-1] INFO  Log:29 - Entering text in searchBox as Creed Band
+2019-02-03 20:32:59 [TestNG-test=Test-2] INFO  Log:35 - Pressed Enter Key
+2019-02-03 20:32:59 [TestNG-test=Test-2] INFO  Log:37 - Test Passed Successfully
+2019-02-03 20:32:59 [TestNG-test=Test-2] INFO  Log:37 - Test Passed Successfully
+2019-02-03 20:33:00 [TestNG-test=Test-1] INFO  Log:35 - Pressed Enter Key
+2019-02-03 20:33:00 [TestNG-test=Test-1] INFO  Log:37 - Test Passed Successfully
+2019-02-03 20:33:00 [TestNG-test=Test-1] INFO  Log:37 - Test Passed Successfully
+2019-02-03 20:33:00 [main] INFO  Log:66 - Stopping the execution
+2019-02-03 20:33:00 [main] INFO  Log:66 - Stopping the execution
+2019-02-04 11:29:51 [main] INFO  Log:58 - Started the test on browser Chrome
+2019-02-04 11:29:51 [main] INFO  Log:58 - Started the test on browser Chrome
+2019-02-04 11:30:01 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-04 11:30:01 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-04 11:30:01 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-04 11:30:01 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-04 11:30:01 [TestNG-test=Test-1] INFO  Log:27 - Entering text in searchBox as Creed Band
+2019-02-04 11:30:01 [TestNG-test=Test-2] INFO  Log:27 - Entering text in searchBox as Metallica
+2019-02-04 11:30:05 [TestNG-test=Test-1] INFO  Log:33 - Pressed Enter Key
+2019-02-04 11:30:05 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-04 11:30:05 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-04 11:30:05 [TestNG-test=Test-2] INFO  Log:33 - Pressed Enter Key
+2019-02-04 11:30:05 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-04 11:30:05 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-04 11:30:06 [main] INFO  Log:64 - Stopping the execution
+2019-02-04 11:30:06 [main] INFO  Log:64 - Stopping the execution
+2019-02-04 13:04:47 [main] INFO  Log:58 - Started the test on browser Chrome
+2019-02-04 13:04:47 [main] INFO  Log:58 - Started the test on browser Chrome
+2019-02-04 13:04:54 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-04 13:04:54 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-04 13:04:54 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-04 13:04:54 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-04 13:04:54 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 13:04:54 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 13:04:58 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:04:58 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-04 13:04:58 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-04 13:04:58 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:04:58 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-04 13:04:58 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-04 13:04:59 [main] INFO  Log:64 - Stopping the execution
+2019-02-04 13:04:59 [main] INFO  Log:64 - Stopping the execution
+2019-02-04 13:13:17 [main] INFO  Log:58 - Started the test on browser Chrome
+2019-02-04 13:13:25 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-04 13:13:25 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-04 13:13:25 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 13:13:26 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 13:13:30 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:13:30 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-04 13:13:31 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:13:31 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-04 13:13:32 [main] INFO  Log:64 - Stopping the execution
+2019-02-04 13:15:10 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 13:15:13 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:16:00 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-04 13:16:08 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-04 13:16:08 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-04 13:16:09 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 13:16:09 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 13:16:12 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:16:12 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-04 13:16:13 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:16:13 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-04 13:16:13 [main] INFO  Log:59 - Stopping the execution
+2019-02-04 13:16:25 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-04 13:16:32 [main] INFO  Log:28 - Started the || searchTest ||
+2019-02-04 13:16:32 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 13:16:36 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:16:36 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-04 13:16:36 [main] INFO  Log:59 - Stopping the execution
+2019-02-04 13:42:33 [main] INFO  Log:58 - Started the test on browser Chrome
+2019-02-04 13:42:36 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 13:42:36 [main] INFO  Log:41 - Test Failed
+2019-02-04 13:42:36 [main] INFO  Log:41 - Test Failed
+2019-02-04 13:42:36 [main] INFO  Log:64 - Stopping the execution
+2019-02-04 13:42:49 [main] INFO  Log:58 - Started the test on browser Chrome
+2019-02-04 13:42:57 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 13:42:57 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 13:43:03 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:43:03 [main] INFO  Log:35 - Test Passed Successfully
+2019-02-04 13:43:03 [main] INFO  Log:41 - Test Failed
+2019-02-04 13:43:03 [main] INFO  Log:64 - Stopping the execution
+2019-02-04 13:44:13 [main] INFO  Log:58 - Started the test on browser Chrome
+2019-02-04 13:44:21 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 13:44:21 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 13:44:25 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:44:25 [main] INFO  Log:35 - Test Passed Successfully
+2019-02-04 13:44:25 [main] INFO  Log:41 - Test Failed
+2019-02-04 13:44:25 [main] INFO  Log:64 - Stopping the execution
+2019-02-04 13:48:31 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 13:48:39 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 13:48:39 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 13:48:42 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 13:48:42 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 13:48:42 [main] INFO  Log:42 - Test Failed
+2019-02-04 13:48:42 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:27:15 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:27:23 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:27:23 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:27:27 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:27:27 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:27:28 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:28:50 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:28:58 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:28:58 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:29:01 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:29:01 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:29:02 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:30:54 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:31:02 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:31:02 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:31:05 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:31:05 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:31:06 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:34:49 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:34:55 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:34:56 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:34:58 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:34:58 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:34:58 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:36:06 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:36:18 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:36:27 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:36:27 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:36:30 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:36:30 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:36:30 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:37:33 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:37:41 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:37:41 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:37:44 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:37:44 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:37:45 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:38:51 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:38:59 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:38:59 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:38:59 [TestNG-test=Test-2] INFO  Log:48 - Test Skipped
+2019-02-04 14:39:02 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:39:02 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:39:02 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:40:18 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:40:26 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:40:27 [TestNG-test=Test-2] INFO  Log:48 - Test Skipped
+2019-02-04 14:40:27 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:40:30 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:40:30 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:40:30 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:41:09 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:41:17 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:41:17 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:41:17 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:41:18 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:41:21 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:41:21 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:41:21 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:41:21 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:41:22 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:42:24 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:42:33 [TestNG-test=Test-2] INFO  Log:48 - Test Skipped
+2019-02-04 14:42:33 [TestNG-test=Test-1] INFO  Log:48 - Test Skipped
+2019-02-04 14:42:33 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:42:55 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:43:04 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:43:04 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:43:04 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:43:04 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:43:08 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:43:08 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:43:08 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:43:08 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:43:09 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:44:54 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:45:05 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:45:05 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:45:09 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:45:09 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:45:10 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:45:47 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:45:54 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:45:54 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:45:58 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:45:58 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:45:59 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:46:51 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:46:58 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:46:58 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:46:59 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:46:59 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:47:02 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:47:02 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:47:03 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:47:03 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:47:04 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:47:28 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:47:35 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:47:35 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:47:38 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:47:38 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:47:39 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:48:56 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:49:03 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:49:03 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:49:06 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:49:06 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:49:07 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:49:47 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:49:53 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:49:53 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:49:56 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:49:56 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:49:57 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:52:11 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:52:18 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:52:19 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:52:23 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:52:23 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:52:23 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:54:37 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:54:46 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:54:46 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:54:51 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:54:51 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:54:52 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:55:07 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:55:16 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:55:16 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 14:55:16 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 14:55:17 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:55:21 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:55:21 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:55:23 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:55:23 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:55:24 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 14:57:54 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 14:58:04 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 14:58:04 [TestNG-test=Test-2] INFO  Log:48 - Test Skipped
+2019-02-04 14:58:04 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 14:58:07 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 14:58:07 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 14:58:07 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 15:03:49 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 15:03:56 [main] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 15:03:56 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 15:03:59 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 15:03:59 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 15:04:06 [main] INFO  Log:30 - Started the || smoket ||
+2019-02-04 15:04:06 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 15:04:06 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 15:05:38 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 15:05:38 [TestNG-test=Test-2] INFO  Log:48 - Test Skipped
+2019-02-04 15:05:38 [TestNG-test=Test-1] INFO  Log:48 - Test Skipped
+2019-02-04 15:05:38 [TestNG-test=Test-3] INFO  Log:48 - Test Skipped
+2019-02-04 15:05:38 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 15:06:04 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 15:06:04 [TestNG-test=Test-2] INFO  Log:48 - Test Skipped
+2019-02-04 15:06:04 [TestNG-test=Test-1] INFO  Log:48 - Test Skipped
+2019-02-04 15:06:04 [TestNG-test=Test-3] INFO  Log:48 - Test Skipped
+2019-02-04 15:06:04 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 15:06:26 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 15:06:26 [main] INFO  Log:48 - Test Skipped
+2019-02-04 15:06:26 [main] INFO  Log:48 - Test Skipped
+2019-02-04 15:06:26 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 15:09:48 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 15:09:55 [main] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 15:09:55 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 15:10:00 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-04 15:10:00 [main] INFO  Log:36 - Test Passed Successfully
+2019-02-04 15:10:00 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 15:10:15 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 15:10:23 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 15:10:23 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 15:10:23 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 15:10:23 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 15:10:27 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 15:10:27 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 15:10:27 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 15:10:27 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-02-04 15:10:28 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 15:11:59 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 15:11:59 [TestNG-test=Test-1] INFO  Log:42 - Test Failed
+2019-02-04 15:11:59 [TestNG-test=Test-2] INFO  Log:42 - Test Failed
+2019-02-04 15:11:59 [main] INFO  Log:65 - Stopping the execution
+2019-02-04 15:13:26 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-04 15:13:33 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-04 15:13:33 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-04 15:13:33 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-04 15:13:33 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-04 15:13:36 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-04 15:13:36 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-04 15:13:37 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-04 15:13:37 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-02-04 15:13:37 [main] INFO  Log:65 - Stopping the execution
+2019-02-06 17:42:21 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-06 17:42:32 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-06 17:42:32 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-06 17:42:32 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 17:42:32 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 17:42:36 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:42:36 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-06 17:42:36 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:42:36 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-02-06 17:42:37 [main] INFO  Log:65 - Stopping the execution
+2019-02-06 17:43:29 [main] INFO  Log:59 - Started the test on browser Chrome
+2019-02-06 17:43:38 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-06 17:43:38 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-06 17:43:38 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 17:43:38 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 17:43:42 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:43:42 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-02-06 17:43:42 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:43:42 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-02-06 17:43:43 [main] INFO  Log:65 - Stopping the execution
+2019-02-06 17:45:06 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-06 17:45:14 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-06 17:45:14 [TestNG-test=Test-1] INFO  Log:39 - Test Failed
+2019-02-06 17:45:14 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-06 17:45:14 [TestNG-test=Test-2] INFO  Log:39 - Test Failed
+2019-02-06 17:45:15 [main] INFO  Log:60 - Stopping the execution
+2019-02-06 17:45:36 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-06 17:45:44 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-06 17:45:44 [TestNG-test=Test-1] INFO  Log:39 - Test Failed
+2019-02-06 17:45:44 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-06 17:45:44 [TestNG-test=Test-2] INFO  Log:39 - Test Failed
+2019-02-06 17:45:45 [main] INFO  Log:60 - Stopping the execution
+2019-02-06 17:46:12 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-06 17:46:20 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-06 17:46:20 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 17:46:20 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-06 17:46:20 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 17:46:24 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:46:24 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-02-06 17:46:29 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:46:29 [TestNG-test=Test-2] INFO  Log:34 - Test Passed Successfully
+2019-02-06 17:46:29 [main] INFO  Log:60 - Stopping the execution
+2019-02-06 17:47:41 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-06 17:47:50 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-06 17:47:50 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-06 17:47:50 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 17:47:50 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 17:47:54 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:47:54 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-02-06 17:47:54 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:47:54 [TestNG-test=Test-2] INFO  Log:34 - Test Passed Successfully
+2019-02-06 17:47:55 [main] INFO  Log:60 - Stopping the execution
+2019-02-06 17:59:27 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-06 17:59:27 [main] INFO  Log:29 - Started the || testApp ||
+2019-02-06 17:59:27 [main] INFO  Log:34 - Test Passed Successfully
+2019-02-06 17:59:34 [main] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-06 17:59:34 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 17:59:36 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:59:36 [main] INFO  Log:34 - Test Passed Successfully
+2019-02-06 17:59:41 [main] INFO  Log:29 - Started the || searchTest ||
+2019-02-06 17:59:42 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 17:59:44 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 17:59:44 [main] INFO  Log:34 - Test Passed Successfully
+2019-02-06 17:59:45 [main] INFO  Log:60 - Stopping the execution
+2019-02-06 18:08:25 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-06 18:08:25 [main] INFO  Log:29 - Started the || testApp ||
+2019-02-06 18:08:25 [main] INFO  Log:34 - Test Passed Successfully
+2019-02-06 18:08:35 [main] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-06 18:08:35 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 18:08:39 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 18:08:39 [main] INFO  Log:34 - Test Passed Successfully
+2019-02-06 18:08:48 [main] INFO  Log:29 - Started the || searchTest ||
+2019-02-06 18:08:48 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 18:08:53 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 18:08:53 [main] INFO  Log:34 - Test Passed Successfully
+2019-02-06 18:08:54 [main] INFO  Log:60 - Stopping the execution
+2019-02-06 19:34:50 [main] INFO  Log:55 - Started the test on browser Chrome
+2019-02-06 19:35:02 [TestNG-test=Test-2] INFO  Log:29 - Started the || searchTest ||
+2019-02-06 19:35:02 [TestNG-test=Test-1] INFO  Log:29 - Started the || search2SmokeTest ||
+2019-02-06 19:35:03 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 19:35:03 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 19:35:07 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:35:07 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-02-06 19:35:08 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:35:08 [TestNG-test=Test-2] INFO  Log:34 - Test Passed Successfully
+2019-02-06 19:35:08 [main] INFO  Log:60 - Stopping the execution
+2019-02-06 19:38:06 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-06 19:38:06 [main] INFO  Log:28 - Started the || testApp ||
+2019-02-06 19:38:06 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:38:14 [main] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-06 19:38:15 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 19:38:19 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:38:19 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:38:26 [main] INFO  Log:28 - Started the || searchTest ||
+2019-02-06 19:38:26 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 19:38:31 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:38:31 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:38:32 [main] INFO  Log:59 - Stopping the execution
+2019-02-06 19:41:25 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-06 19:41:34 [main] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-06 19:41:35 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 19:41:38 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:41:38 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:41:45 [main] INFO  Log:28 - Started the || searchTest ||
+2019-02-06 19:41:45 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 19:41:50 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:41:50 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:41:51 [main] INFO  Log:59 - Stopping the execution
+2019-02-06 19:43:50 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-06 19:43:59 [main] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-06 19:43:59 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 19:44:03 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:44:03 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:44:11 [main] INFO  Log:28 - Started the || searchTest ||
+2019-02-06 19:44:11 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 19:44:15 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:44:15 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:44:15 [main] INFO  Log:59 - Stopping the execution
+2019-02-06 19:51:34 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-06 19:51:44 [main] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-06 19:51:44 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 19:51:48 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:51:48 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:51:55 [main] INFO  Log:28 - Started the || searchTest ||
+2019-02-06 19:51:55 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 19:51:59 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:51:59 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:51:59 [main] INFO  Log:59 - Stopping the execution
+2019-02-06 19:56:24 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-06 19:56:34 [main] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-06 19:56:34 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 19:56:37 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:56:37 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:56:45 [main] INFO  Log:28 - Started the || searchTest ||
+2019-02-06 19:56:45 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 19:56:48 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 19:56:48 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 19:56:49 [main] INFO  Log:59 - Stopping the execution
+2019-02-06 20:12:25 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-06 20:12:32 [main] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-06 20:12:33 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 20:12:37 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 20:12:37 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 20:12:43 [main] INFO  Log:28 - Started the || searchTest ||
+2019-02-06 20:12:43 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 20:12:47 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 20:12:47 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 20:12:48 [main] INFO  Log:59 - Stopping the execution
+2019-02-06 20:19:31 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-06 20:19:39 [main] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-06 20:19:39 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-06 20:19:44 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 20:19:44 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 20:19:51 [main] INFO  Log:28 - Started the || searchTest ||
+2019-02-06 20:19:51 [main] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-06 20:19:55 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-06 20:19:55 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-06 20:19:56 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 12:22:14 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-07 12:22:24 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 12:22:24 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 12:22:25 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 12:22:25 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 12:22:29 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 12:22:29 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 12:22:29 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 12:22:29 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 12:22:30 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 12:27:18 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-07 12:27:27 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 12:27:27 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 12:27:27 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 12:27:28 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 12:27:31 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 12:27:31 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 12:27:31 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 12:27:31 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 12:27:32 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 15:26:32 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-07 15:26:43 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 15:26:43 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 15:26:43 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 15:26:44 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 15:26:48 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 15:26:48 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 15:26:48 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 15:26:48 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 15:26:49 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 15:31:28 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-07 15:31:35 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 15:31:36 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 15:31:40 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 15:31:40 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 15:31:43 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 15:31:43 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 15:31:45 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 15:31:45 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 15:31:45 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 16:23:55 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-07 16:24:07 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 16:24:07 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 16:24:07 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 16:24:07 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 16:24:08 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 16:24:09 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-07 16:24:09 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-07 16:24:09 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-07 16:24:12 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 16:24:12 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 16:24:13 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 16:24:13 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 16:24:14 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-07 16:24:14 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-07 16:24:15 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-07 16:24:15 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-07 16:24:20 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 16:24:20 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 16:24:24 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 16:24:24 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 16:24:24 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 16:30:20 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-02-07 16:30:31 [main] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 16:30:31 [main] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 16:30:36 [main] INFO  Log:43 - Pressed Enter Key
+2019-02-07 16:30:36 [main] INFO  Log:33 - Test Passed Successfully
+2019-02-07 16:30:37 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 17:13:38 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-07 17:13:39 [TestNG-test=Test-2] INFO  Log:43 - Test Skipped
+2019-02-07 17:13:39 [TestNG-test=Test-3] INFO  Log:43 - Test Skipped
+2019-02-07 17:13:39 [TestNG-test=Test-3] INFO  Log:43 - Test Skipped
+2019-02-07 17:13:39 [TestNG-test=Test-4] INFO  Log:43 - Test Skipped
+2019-02-07 17:13:39 [TestNG-test=Test-1] INFO  Log:43 - Test Skipped
+2019-02-07 17:13:39 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 17:14:57 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-07 17:14:58 [TestNG-test=Test-4] INFO  Log:43 - Test Skipped
+2019-02-07 17:14:58 [TestNG-test=Test-1] INFO  Log:43 - Test Skipped
+2019-02-07 17:14:58 [TestNG-test=Test-3] INFO  Log:43 - Test Skipped
+2019-02-07 17:14:58 [TestNG-test=Test-4] INFO  Log:43 - Test Skipped
+2019-02-07 17:14:58 [TestNG-test=Test-2] INFO  Log:43 - Test Skipped
+2019-02-07 17:14:58 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 17:15:32 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-07 17:15:44 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:15:44 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:15:45 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 17:15:45 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-07 17:15:47 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:15:47 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:15:48 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:15:48 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:15:58 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:15:58 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:15:59 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-07 17:15:59 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-07 17:16:01 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:16:01 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:16:02 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:16:02 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:16:15 [TestNG-test=Test-3] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 17:16:16 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 17:16:19 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:16:19 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:16:19 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 17:18:26 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-07 17:18:39 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:18:39 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:18:39 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:18:40 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:18:40 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-07 17:18:40 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-07 17:18:41 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-07 17:18:41 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 17:18:42 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:18:42 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:18:43 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:18:43 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:18:44 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:18:44 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:18:44 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:18:44 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:18:57 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 17:18:58 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 17:19:01 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:19:01 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:19:02 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 17:21:10 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-07 17:21:23 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:21:23 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:21:24 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 17:21:24 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-07 17:21:26 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:21:26 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:21:27 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:21:27 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:21:36 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:21:37 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-07 17:21:37 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:21:38 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-07 17:21:39 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:21:39 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:21:40 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:21:40 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:21:54 [TestNG-test=Test-1] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 17:21:56 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 17:21:58 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:21:58 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:21:58 [main] INFO  Log:59 - Stopping the execution
+2019-02-07 17:39:34 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-07 17:39:47 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:39:48 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:39:48 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-07 17:39:49 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-07 17:39:52 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:39:52 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:39:52 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:39:52 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:40:02 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:40:03 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-07 17:40:04 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-07 17:40:04 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-07 17:40:07 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:40:07 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:40:07 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:40:07 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:40:21 [TestNG-test=Test-3] INFO  Log:28 - Started the || searchTest ||
+2019-02-07 17:40:22 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-07 17:40:25 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-07 17:40:25 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-07 17:40:26 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 11:43:45 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-11 11:43:57 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 11:43:58 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 11:43:58 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 11:43:59 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 11:43:59 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 11:44:00 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 11:44:01 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:44:01 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:44:02 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:44:02 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:44:03 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:44:03 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:44:11 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 11:44:13 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 11:44:17 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:44:17 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:44:18 [TestNG-test=Test-3] INFO  Log:28 - Started the || searchTest ||
+2019-02-11 11:44:19 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 11:44:25 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:44:25 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:44:25 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 11:58:05 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-11 11:58:13 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 11:58:13 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 11:58:13 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 11:58:15 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 11:58:15 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 11:58:15 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 11:58:16 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 11:58:16 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 11:58:19 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:58:19 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:58:19 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:58:19 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:58:19 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:58:19 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:58:20 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:58:20 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:58:23 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-11 11:58:23 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 11:58:26 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 11:58:26 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 11:58:27 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 12:01:05 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-11 12:01:19 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:01:20 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:01:22 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 12:01:23 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 12:01:25 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:01:25 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:01:26 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:01:26 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:01:34 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:01:35 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 12:01:37 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:01:37 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:01:38 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:01:39 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 12:01:43 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:01:43 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:01:55 [TestNG-test=Test-1] INFO  Log:28 - Started the || searchTest ||
+2019-02-11 12:01:56 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 12:01:59 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:01:59 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:01:59 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 12:04:59 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-11 12:05:12 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:05:12 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:05:14 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 12:05:14 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 12:05:17 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:05:17 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:05:17 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:05:17 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:05:26 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:05:26 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:05:27 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 12:05:27 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 12:05:29 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:05:29 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:05:30 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:05:30 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:05:38 [TestNG-test=Test-1] INFO  Log:28 - Started the || searchTest ||
+2019-02-11 12:05:39 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 12:05:44 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:05:44 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:05:44 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 12:07:32 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-11 12:07:48 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:07:48 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:07:50 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 12:07:50 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 12:07:52 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:07:52 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:07:53 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:07:53 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:08:01 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:08:02 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 12:08:02 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:08:03 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 12:08:04 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:08:04 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:08:06 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:08:06 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:08:14 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-11 12:08:16 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 12:08:18 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:08:18 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:08:19 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 12:09:22 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-11 12:09:33 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:09:34 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:09:35 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 12:09:35 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 12:09:38 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:09:38 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:09:39 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:09:39 [TestNG-test=Test-1] INFO  Log:38 - Test Failed
+2019-02-11 12:09:47 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:09:48 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 12:09:51 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:09:51 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:09:55 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:09:56 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 12:09:59 [TestNG-test=Test-3] INFO  Log:28 - Started the || searchTest ||
+2019-02-11 12:10:00 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 12:10:01 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:10:01 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:10:03 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:10:03 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:10:04 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 12:39:00 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-11 12:39:14 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:39:14 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:39:15 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 12:39:18 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 12:39:19 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:39:19 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:39:21 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:39:21 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:39:28 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:39:29 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 12:39:30 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 12:39:31 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 12:39:31 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:39:32 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:39:34 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:39:34 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:39:43 [TestNG-test=Test-4] INFO  Log:28 - Started the || searchTest ||
+2019-02-11 12:39:47 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 12:39:50 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 12:39:50 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 12:39:50 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 15:44:03 [main] INFO  Log:54 - Started the test on browser ChromeSauce
+2019-02-11 15:44:17 [TestNG-test=Test-2] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 15:44:18 [TestNG-test=Test-4] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 15:44:18 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 15:44:19 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 15:44:21 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:44:21 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 15:44:22 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:44:22 [TestNG-test=Test-4] INFO  Log:33 - Test Passed Successfully
+2019-02-11 15:44:31 [TestNG-test=Test-1] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 15:44:31 [TestNG-test=Test-3] INFO  Log:28 - Started the || search2SmokeTest ||
+2019-02-11 15:44:32 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 15:44:34 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:44:35 [TestNG-test=Test-1] INFO  Log:33 - Test Passed Successfully
+2019-02-11 15:44:36 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 15:44:38 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:44:38 [TestNG-test=Test-3] INFO  Log:33 - Test Passed Successfully
+2019-02-11 15:44:48 [TestNG-test=Test-2] INFO  Log:28 - Started the || searchTest ||
+2019-02-11 15:44:49 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 15:44:55 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:44:55 [TestNG-test=Test-2] INFO  Log:33 - Test Passed Successfully
+2019-02-11 15:44:55 [main] INFO  Log:59 - Stopping the execution
+2019-02-11 15:53:06 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 15:53:19 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:53:21 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 15:53:21 [TestNG-test=Test-3] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:53:22 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 15:53:23 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:53:24 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:53:25 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:53:25 [TestNG-test=Test-3] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:53:36 [TestNG-test=Test-2] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:53:37 [TestNG-test=Test-4] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:53:37 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 15:53:38 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 15:53:40 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:53:40 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:53:41 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:53:41 [TestNG-test=Test-4] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:53:41 [TestNG-test=Test-1] INFO  Log:30 - Started the || searchTest ||
+2019-02-11 15:53:44 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 15:53:47 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:53:47 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:53:48 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 15:55:08 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 15:55:20 [TestNG-test=Test-4] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:55:21 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 15:55:23 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:55:24 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:55:24 [TestNG-test=Test-4] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:55:24 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 15:55:26 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:55:27 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:55:39 [TestNG-test=Test-4] INFO  Log:30 - Started the || searchTest ||
+2019-02-11 15:55:40 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 15:55:43 [TestNG-test=Test-2] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:55:44 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 15:55:46 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:55:46 [TestNG-test=Test-4] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:55:47 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:55:47 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:55:55 [TestNG-test=Test-3] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:55:56 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 15:56:01 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:56:01 [TestNG-test=Test-3] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:56:01 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 15:59:06 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 15:59:18 [TestNG-test=Test-3] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:59:18 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2CreedSmokeTest ||
+2019-02-11 15:59:19 [TestNG-test=Test-2] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:59:19 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 15:59:19 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 15:59:20 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 15:59:21 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:59:22 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:59:22 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:59:22 [TestNG-test=Test-3] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:59:25 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:59:25 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:59:33 [TestNG-test=Test-4] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 15:59:34 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 15:59:35 [TestNG-test=Test-1] INFO  Log:30 - Started the || searchTest ||
+2019-02-11 15:59:37 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:59:37 [TestNG-test=Test-4] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:59:39 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 15:59:42 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 15:59:42 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-11 15:59:43 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 16:01:17 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 16:01:28 [TestNG-test=Test-2] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 16:01:29 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 16:01:30 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2CreedSmokeTest ||
+2019-02-11 16:01:31 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 16:01:34 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:01:34 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:01:36 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:01:36 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:01:50 [TestNG-test=Test-4] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 16:01:50 [TestNG-test=Test-3] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 16:01:52 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 16:01:52 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 16:01:55 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:01:55 [TestNG-test=Test-3] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:01:55 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:01:55 [TestNG-test=Test-4] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:02:07 [TestNG-test=Test-1] INFO  Log:30 - Started the || searchTest ||
+2019-02-11 16:02:09 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 16:02:11 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:02:11 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:02:12 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 16:04:51 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 16:05:04 [TestNG-test=Test-3] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 16:05:04 [TestNG-test=Test-2] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 16:05:05 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-11 16:05:05 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-11 16:05:07 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:05:07 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:05:10 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:05:10 [TestNG-test=Test-3] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:05:21 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2CreedSmokeTest ||
+2019-02-11 16:05:21 [TestNG-test=Test-4] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-11 16:05:22 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-11 16:05:23 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-11 16:05:25 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:05:25 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:05:25 [TestNG-test=Test-4] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:05:26 [TestNG-test=Test-1] INFO  Log:40 - Test Failed
+2019-02-11 16:05:37 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-11 16:05:40 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-11 16:05:43 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-11 16:05:43 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-11 16:05:44 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 18:29:32 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 18:29:33 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-11 18:29:33 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-11 18:29:33 [TestNG-test=Test-3] INFO  Log:45 - Test Skipped
+2019-02-11 18:29:33 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-11 18:29:33 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-11 18:29:33 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 18:30:50 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 18:32:12 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-11 18:32:12 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-11 18:32:12 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-11 18:32:12 [TestNG-test=Test-3] INFO  Log:45 - Test Skipped
+2019-02-11 18:33:26 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-11 18:33:26 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 18:41:43 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 18:41:43 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-11 18:41:43 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-11 18:41:43 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-11 18:41:43 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-11 18:41:43 [TestNG-test=Test-3] INFO  Log:45 - Test Skipped
+2019-02-11 18:41:43 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 18:41:55 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 18:42:36 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-11 18:42:39 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-11 18:42:39 [TestNG-test=Test-3] INFO  Log:45 - Test Skipped
+2019-02-11 18:42:40 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-11 18:42:42 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-11 18:42:42 [main] INFO  Log:61 - Stopping the execution
+2019-02-11 18:43:11 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-11 18:43:58 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-11 18:43:58 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-11 18:43:58 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-11 18:43:58 [TestNG-test=Test-3] INFO  Log:45 - Test Skipped
+2019-02-11 18:44:43 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-11 18:44:43 [main] INFO  Log:61 - Stopping the execution
+2019-02-13 16:26:01 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-13 16:26:49 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-13 16:26:49 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-13 16:26:49 [TestNG-test=Test-3] INFO  Log:45 - Test Skipped
+2019-02-13 16:26:49 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-13 16:27:34 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-13 16:27:34 [main] INFO  Log:61 - Stopping the execution
+2019-02-13 16:28:04 [main] INFO  Log:56 - Started the test on browser ChromeSauce
+2019-02-13 16:28:17 [TestNG-test=Test-2] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-13 16:28:18 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2CreedSmokeTest ||
+2019-02-13 16:28:18 [TestNG-test=Test-3] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-13 16:28:18 [TestNG-test=Test-4] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-13 16:28:19 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-13 16:28:20 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-13 16:28:20 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-13 16:28:21 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-13 16:28:23 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-13 16:28:23 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-13 16:28:25 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-13 16:28:25 [TestNG-test=Test-3] INFO  Log:35 - Test Passed Successfully
+2019-02-13 16:28:26 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-13 16:28:26 [TestNG-test=Test-1] INFO  Log:40 - Test Failed
+2019-02-13 16:28:26 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-13 16:28:26 [TestNG-test=Test-4] INFO  Log:35 - Test Passed Successfully
+2019-02-13 16:28:34 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-13 16:28:34 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-13 16:28:38 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-13 16:28:38 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-13 16:28:39 [main] INFO  Log:61 - Stopping the execution
+2019-02-15 16:21:25 [main] INFO  Log:56 - Started the test on browser Firefox
+2019-02-15 16:22:12 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-02-15 16:22:12 [TestNG-test=Test-3] INFO  Log:45 - Test Skipped
+2019-02-15 16:22:12 [TestNG-test=Test-4] INFO  Log:45 - Test Skipped
+2019-02-15 16:22:12 [TestNG-test=Test-2] INFO  Log:45 - Test Skipped
+2019-02-15 16:23:20 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-02-15 16:23:34 [TestNG-test=Test-3] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-15 16:23:34 [TestNG-test=Test-4] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-15 16:23:34 [TestNG-test=Test-2] INFO  Log:30 - Started the || search2SmokeTest ||
+2019-02-15 16:23:35 [TestNG-test=Test-1] INFO  Log:30 - Started the || search2CreedSmokeTest ||
+2019-02-15 16:23:36 [TestNG-test=Test-3] INFO  Log:38 - Entering text in searchBox as Linkin Park 
+2019-02-15 16:23:36 [TestNG-test=Test-4] INFO  Log:38 - Entering text in searchBox as Lamb Of God band
+2019-02-15 16:23:36 [TestNG-test=Test-1] INFO  Log:38 - Entering text in searchBox as Creed Band
+2019-02-15 16:23:37 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Trivium Band
+2019-02-15 16:23:40 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-15 16:23:40 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-15 16:23:41 [TestNG-test=Test-3] INFO  Log:43 - Pressed Enter Key
+2019-02-15 16:23:41 [TestNG-test=Test-3] INFO  Log:35 - Test Passed Successfully
+2019-02-15 16:23:41 [TestNG-test=Test-1] INFO  Log:43 - Pressed Enter Key
+2019-02-15 16:23:41 [TestNG-test=Test-1] INFO  Log:35 - Test Passed Successfully
+2019-02-15 16:23:41 [TestNG-test=Test-4] INFO  Log:43 - Pressed Enter Key
+2019-02-15 16:23:41 [TestNG-test=Test-4] INFO  Log:35 - Test Passed Successfully
+2019-02-15 16:23:49 [TestNG-test=Test-2] INFO  Log:30 - Started the || searchTest ||
+2019-02-15 16:23:50 [TestNG-test=Test-2] INFO  Log:38 - Entering text in searchBox as Metallica
+2019-02-15 16:23:54 [TestNG-test=Test-2] INFO  Log:43 - Pressed Enter Key
+2019-02-15 16:23:54 [TestNG-test=Test-2] INFO  Log:35 - Test Passed Successfully
+2019-02-15 16:23:55 [main] INFO  Log:61 - Stopping the execution
+2019-03-07 16:01:13 [main] INFO  Log:56 - Started the test on browser 
+2019-03-07 16:01:14 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-03-07 16:01:14 [main] INFO  Log:61 - Stopping the execution
+2019-03-07 16:01:56 [main] INFO  Log:56 - Started the test on browser chr
+2019-03-07 16:01:56 [TestNG-test=Test-1] INFO  Log:45 - Test Skipped
+2019-03-07 16:01:56 [main] INFO  Log:61 - Stopping the execution
+2019-03-11 18:09:00 [main] INFO  Log:57 - Started the test on browser Chrome
+2019-03-11 18:09:09 [TestNG-test=Test-1] INFO  Log:32 - Started the || login ||
+2019-03-11 18:09:09 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-11 18:09:09 [TestNG-test=Test-1] INFO  Log:37 - Test Passed Successfully
+2019-03-11 18:09:10 [main] INFO  Log:62 - Stopping the execution
+2019-03-11 18:31:55 [main] INFO  Log:57 - Started the test on browser Chrome
+2019-03-11 18:32:05 [TestNG-test=Test-1] INFO  Log:32 - Started the || login ||
+2019-03-11 18:32:06 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-11 18:32:06 [TestNG-test=Test-1] INFO  Log:37 - Test Passed Successfully
+2019-03-11 18:32:06 [main] INFO  Log:62 - Stopping the execution
