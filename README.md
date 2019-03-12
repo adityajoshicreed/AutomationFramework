@@ -1,7 +1,7 @@
-Automation framwork 
+<b>Automation framwork</b> 
 
-Technolgies used:
+<b>Technolgies used:</b>
 Java, Maven, TestNg, Selenium, Java Mail, Allure Report
 
-How to Run Test: 
+<b>How to Run Test: </b>
 mvn test -Dbrowser=Chrome
