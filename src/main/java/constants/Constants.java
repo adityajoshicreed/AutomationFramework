@@ -20,7 +20,7 @@ public class Constants {
 		public final static String url = "https://login.yahoo.com/";
 		public final static int wait = 10;
 		
-		public final static String mailStatus = "N";
+		public final static String mailStatus = System.getProperty("mail");
 		public final static String senderEmail = "";
 		public final static String senderPass = "";
 		public final static String recipientEmail = "";

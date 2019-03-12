@@ -2,7 +2,7 @@ package driver;
 
 public class DriverFactory {
 	
-	private NoDriverException nde = new NoDriverException("No Driver Manager Specified");
+//	private NoDriverException nde = new NoDriverException("No Driver Manager Specified");
 
 	public DriverManager getManager(String type) throws NoDriverException {
 
@@ -18,9 +18,6 @@ public class DriverFactory {
         }
         else if(type.equals("Grid")) {
         	driverManager = new GridManager();
-        }
-        else {
-        	throw nde;
         }
         return driverManager;
 

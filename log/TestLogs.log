@@ -1521,3 +1521,33 @@
 2019-03-11 18:32:06 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
 2019-03-11 18:32:06 [TestNG-test=Test-1] INFO  Log:37 - Test Passed Successfully
 2019-03-11 18:32:06 [main] INFO  Log:62 - Stopping the execution
+2019-03-12 19:26:26 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-03-12 19:26:41 [TestNG-test=Test-1] INFO  Log:29 - Started the || login ||
+2019-03-12 19:26:42 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-12 19:26:42 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-03-12 19:26:43 [main] INFO  Log:59 - Stopping the execution
+2019-03-12 19:29:26 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-03-12 19:29:35 [TestNG-test=Test-1] INFO  Log:29 - Started the || login ||
+2019-03-12 19:29:35 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-12 19:29:35 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-03-12 19:29:36 [main] INFO  Log:59 - Stopping the execution
+2019-03-12 19:30:28 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-03-12 19:30:37 [TestNG-test=Test-1] INFO  Log:29 - Started the || login ||
+2019-03-12 19:30:37 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-12 19:30:37 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-03-12 19:30:38 [main] INFO  Log:59 - Stopping the execution
+2019-03-12 19:31:58 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-03-12 19:32:05 [TestNG-test=Test-1] INFO  Log:29 - Started the || login ||
+2019-03-12 19:32:06 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-12 19:32:06 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-03-12 19:32:07 [main] INFO  Log:59 - Stopping the execution
+2019-03-12 19:33:12 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-03-12 19:33:20 [TestNG-test=Test-1] INFO  Log:29 - Started the || login ||
+2019-03-12 19:33:20 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-12 19:33:20 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-03-12 19:33:21 [main] INFO  Log:59 - Stopping the execution
+2019-03-12 19:38:41 [main] INFO  Log:54 - Started the test on browser Chrome
+2019-03-12 19:38:48 [TestNG-test=Test-1] INFO  Log:29 - Started the || login ||
+2019-03-12 19:38:48 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-12 19:38:48 [TestNG-test=Test-1] INFO  Log:34 - Test Passed Successfully
+2019-03-12 19:38:49 [main] INFO  Log:59 - Stopping the execution

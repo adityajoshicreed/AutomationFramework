@@ -88,6 +88,9 @@
 					<systemPropertyVariables>
 						<browser>${browser}</browser>
 					</systemPropertyVariables>
+					<systemPropertyVariables>
+						<browser>${mail}</browser>
+					</systemPropertyVariables>
 				</configuration>
 				<dependencies>
 					<dependency>
