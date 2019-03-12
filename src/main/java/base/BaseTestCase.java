@@ -30,7 +30,7 @@ public class BaseTestCase {
 
 	@AfterMethod
 	public void afterTest(ITestResult result) {
-		sauceTestStatus(result);
+//		sauceTestStatus(result);
 		driverManager.quitDriver();
 	}
 
