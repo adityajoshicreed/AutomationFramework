@@ -38,4 +38,4 @@ jobs:
           key: v1-dependencies-{{ checksum "pom.xml" }}
 
       # run tests!
-      - run: mvn clean test -Dbrowser=Chrome -Dmail=N dependency:resolve-plugins dependency:go-offline
+      - run: mvn clean test -Dbrowser=Chrome -Dmail=N
