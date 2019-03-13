@@ -32,7 +32,7 @@ public class Constants {
 			if(os.contains("win")) {
 				path = System.getProperty("user.dir")+"/Drivers/chromedriver.exe";
 			}
-			else if(os.contains("nix")) {
+			else{
 				path = System.getProperty("user.dir")+"/Drivers/chromedriver";
 			}
 			return path;
