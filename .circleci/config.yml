@@ -38,4 +38,4 @@ jobs:
           key: v1-dependencies-{{ checksum "pom.xml" }}
 
       # run tests!
-      - run: mvn test -Dbrowser=Chrome -Dmail=N
+      - run: mvn clean test -Dbrowser=Chrome -Dmail=N
