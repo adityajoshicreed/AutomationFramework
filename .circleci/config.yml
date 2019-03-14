@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       # specify the version you desire her
-      - image: circleci/openjdk:8-jdk
+      - image: selenium/standalone-chrome
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
