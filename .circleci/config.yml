@@ -37,5 +37,6 @@ jobs:
             - ~/.m2
           key: v1-dependencies-{{ checksum "pom.xml" }}
 
+      - run: chmod +x /home/circleci/repo/Drivers/chromedriver
       # run tests!
       - run: mvn clean test -Dbrowser=Chrome -Dmail=N
