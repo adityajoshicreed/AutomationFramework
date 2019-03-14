@@ -4,6 +4,7 @@ import java.lang.reflect.Method;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -11,6 +12,7 @@ import org.testng.annotations.Listeners;
 
 import driver.DriverFactory;
 import driver.DriverManager;
+import driver.EventListener;
 import driver.MissingValidMavenArgument;
 
 @Listeners(listeners.listeners.class)
@@ -20,12 +22,17 @@ public class BaseTestCase {
 	public WebDriver driver;
 	DriverFactory df = new DriverFactory();
 	private String browserName = System.getProperty("browser");
+	public EventFiringWebDriver eDriver;
+	public EventListener handle;
 
 	@BeforeMethod
 	public void beforeMethod(Method method) throws MissingValidMavenArgument {
 		driverManager = df.getManager(browserName);
 		driverManager.setMethodName(method.getName());
 		driver = driverManager.getDriver();
+		eDriver=new EventFiringWebDriver(driver);
+		handle = new EventListener();
+		eDriver.register(handle);
 	}
 
 	@AfterMethod

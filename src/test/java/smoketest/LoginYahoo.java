@@ -12,7 +12,7 @@ public class LoginYahoo extends BaseTestCase
 	@Feature("LoginTest")
 	@Test(testName="Creed",description = "enter username")
 	public void login() {
-		new LoginPageObject(driver).enterUsername("adi");
+		new LoginPageObject(eDriver).enterUsername("adi");
 	}
 	
 }

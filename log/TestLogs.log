@@ -1590,3 +1590,36 @@
 2019-03-14 16:03:56 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
 2019-03-14 16:03:56 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
 2019-03-14 16:03:56 [main] INFO  Log:61 - Stopping the execution
+2019-03-14 19:51:56 [main] INFO  Log:56 - Started the test on browser 
+2019-03-14 19:51:56 [TestNG-test=Test-1] INFO  Log:46 - Test Skipped
+2019-03-14 19:51:56 [main] INFO  Log:61 - Stopping the execution
+2019-03-14 19:55:59 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-03-14 19:56:26 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-03-14 19:56:26 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-14 19:56:26 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-03-14 19:56:27 [main] INFO  Log:61 - Stopping the execution
+2019-03-14 19:57:55 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-03-14 19:58:23 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-03-14 19:58:24 [TestNG-test=Test-1] INFO  Log:30 - Entering [Ljava.lang.CharSequence;@3c19e076 in [[ChromeDriver: chrome on XP (690c347483379ff7e5e5bd35a2d8d4a9)] -> id: login-username]
+2019-03-14 19:58:24 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-14 19:58:24 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-03-14 19:58:24 [main] INFO  Log:61 - Stopping the execution
+2019-03-14 19:59:43 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-03-14 20:00:12 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-03-14 20:00:12 [TestNG-test=Test-1] INFO  Log:30 - Entering [Ljava.lang.CharSequence;@289f871d in [[ChromeDriver: chrome on XP (632a81cc1e4b769f7d7808da5c130bf3)] -> id: login-username]
+2019-03-14 20:00:12 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-14 20:00:12 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-03-14 20:00:13 [main] INFO  Log:61 - Stopping the execution
+2019-03-14 20:00:34 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-03-14 20:01:00 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-03-14 20:01:01 [TestNG-test=Test-1] INFO  Log:30 - Entering [Ljava.lang.CharSequence;@12a7b074 in ChromeDriver: chrome on XP (03d0c433cf5759dfb2dcdf0c66f203a5)
+2019-03-14 20:01:01 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-14 20:01:01 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-03-14 20:01:01 [main] INFO  Log:61 - Stopping the execution
+2019-03-14 20:02:58 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-03-14 20:03:28 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-03-14 20:03:28 [TestNG-test=Test-1] INFO  Log:40 - Found [[ChromeDriver: chrome on XP (f86d8296231582174bce7980d251d8d9)] -> id: login-username]
+2019-03-14 20:03:28 [TestNG-test=Test-1] INFO  Log:30 - Entering [Ljava.lang.CharSequence;@5012bfb0 in [[ChromeDriver: chrome on XP (f86d8296231582174bce7980d251d8d9)] -> id: login-username]
+2019-03-14 20:03:28 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-14 20:03:28 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-03-14 20:03:29 [main] INFO  Log:61 - Stopping the execution
