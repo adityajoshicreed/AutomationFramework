@@ -9,8 +9,8 @@ import constants.Constants;
 
 public class ChromeSauce extends DriverManager {
 
-	public final String USERNAME = "aditya.creed";
-	public final String ACCESS_KEY = "211b00de-1805-4c0a-990e-42072472069f";
+	public final String USERNAME = "";
+	public final String ACCESS_KEY = "";
 	public final String URL = "https://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:443/wd/hub";
 
 	@Override
