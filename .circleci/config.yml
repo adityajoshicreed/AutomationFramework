@@ -36,7 +36,11 @@ jobs:
           paths:
             - ~/.m2
           key: v1-dependencies-{{ checksum "pom.xml" }}
-
+          
+      - run: sudo apt-get update
+      - run: sudo apt-get install lsb-release libappindicator3-1 
+      - run: curl -L -o google-chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+      - run: sudo dpkg -i google-chrome.deb
       - run: chmod +x /home/circleci/repo/Drivers/chromedriver
       # run tests!
       - run: mvn clean test -Dbrowser=Chrome -Dmail=N
