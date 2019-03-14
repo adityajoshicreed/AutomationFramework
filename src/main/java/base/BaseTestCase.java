@@ -11,7 +11,7 @@ import org.testng.annotations.Listeners;
 
 import driver.DriverFactory;
 import driver.DriverManager;
-import driver.NoDriverException;
+import driver.MissingValidMavenArgument;
 
 @Listeners(listeners.listeners.class)
 public class BaseTestCase {
@@ -22,7 +22,7 @@ public class BaseTestCase {
 	private String browserName = System.getProperty("browser");
 
 	@BeforeMethod
-	public void beforeMethod(Method method) throws NoDriverException {
+	public void beforeMethod(Method method) throws MissingValidMavenArgument {
 		driverManager = df.getManager(browserName);
 		driverManager.setMethodName(method.getName());
 		driver = driverManager.getDriver();

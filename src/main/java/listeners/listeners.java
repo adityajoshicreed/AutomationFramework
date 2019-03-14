@@ -10,6 +10,7 @@ import org.testng.ITestListener;
 import org.testng.ITestResult;
 
 import constants.Constants;
+import driver.MissingValidMavenArgument;
 import utils.MailUtil;
 
 /**
@@ -23,6 +24,7 @@ public class listeners implements ITestListener {
 
 	public final Logger LOGGER = LogManager.getLogger("Log");
 	MailUtil mail = new MailUtil();
+	private MissingValidMavenArgument nde = new MissingValidMavenArgument("Missing/Wrong value of argument -Dmail. Set it to Y or N");
 
 	@Override
 	public void onTestStart(ITestResult result) {
@@ -62,6 +64,17 @@ public class listeners implements ITestListener {
 			int failedTestCases = context.getFailedTests().size();
 			String message = "Total Passed test case: " + passedTestCases + "\n Test Case Failed: " + failedTestCases;
 			mail.sendMail(message);
+		}
+		else if(Constants.mailStatus.equals("N")) {
+			
+		}
+		else {
+			try {
+				throw nde;
+			} catch (MissingValidMavenArgument e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}
 	}
 

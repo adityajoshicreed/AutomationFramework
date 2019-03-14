@@ -2,9 +2,9 @@ package driver;
 
 public class DriverFactory {
 	
-//	private NoDriverException nde = new NoDriverException("No Driver Manager Specified");
+	private MissingValidMavenArgument nde = new MissingValidMavenArgument("No Driver Manager Specified");
 
-	public DriverManager getManager(String type) throws NoDriverException {
+	public DriverManager getManager(String type) throws MissingValidMavenArgument {
 
         DriverManager driverManager = null;
         if(type.equals("Chrome")) {
@@ -18,6 +18,9 @@ public class DriverFactory {
         }
         else if(type.equals("Grid")) {
         	driverManager = new GridManager();
+        }
+        else {
+        	throw nde;
         }
         return driverManager;
 
