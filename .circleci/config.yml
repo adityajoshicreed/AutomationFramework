@@ -37,5 +37,13 @@ jobs:
             - ~/.m2
           key: v1-dependencies-{{ checksum "pom.xml" }}
 
+      - run:
+            name: Install Chromedriver latest version
+            command: |
+            sudo apt-get update
+            sudo apt-get install lsb-release
+            curl -L -o google-chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 55
+            sudo dpkg -i google-chrome.deb
+            
       # run tests!
       - run: mvn clean test -Dbrowser=Chrome -Dmail=N
