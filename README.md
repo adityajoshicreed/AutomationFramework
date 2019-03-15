@@ -16,7 +16,10 @@ Java, Maven, TestNg, Selenium, Java Mail, Allure Report, Log4j
 10. Custom Exception for Maven arguments.<br>
 
 <b>How to Run Test: </b><br>
-mvn test -Dbrowser=Chrome -Dmail=N <br>
+mvn clean test -Dbrowser=Chrome -Dmail=N <br>
 Values for -Dbrowser=Grid,ChromeSauce <br>
 Values for -Dmail=N,Y <br>
+
+<b>Generating allure report:</b> <br>
+Install Allure CLI and run command <b>mvn allure:report</b>
 
