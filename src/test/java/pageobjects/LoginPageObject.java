@@ -9,7 +9,7 @@ import io.qameta.allure.Step;
 
 public class LoginPageObject extends BasePageObject{
 
-	@FindBy(id="login-username")
+	@FindBy(id="login-usernam")
 	private WebElement username;
 	
 	public LoginPageObject(WebDriver driver) {

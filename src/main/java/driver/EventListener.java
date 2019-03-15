@@ -4,9 +4,12 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.events.WebDriverEventListener;
+
+import io.qameta.allure.Attachment;
 
 public class EventListener implements WebDriverEventListener{
 
@@ -173,7 +176,12 @@ public class EventListener implements WebDriverEventListener{
 	@Override
 	public void onException(Throwable arg0, WebDriver arg1) {
 		// TODO Auto-generated method stub
-		
+		saveScreenshot(arg1);
+	}
+	
+	@Attachment(value = "Page screenshot", type = "image/png")
+	public byte[] saveScreenshot(WebDriver driver) {
+	    return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
 	}
 
 }
