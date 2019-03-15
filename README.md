@@ -1,4 +1,4 @@
-<b>Automation framwork</b> 
+<b>Automation framwork</b> <br>
 Sample automation framework just for learing purpose.
 
 <b>Technolgies used:</b><br>
