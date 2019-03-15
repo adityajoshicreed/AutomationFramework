@@ -1,9 +1,9 @@
 <b>Automation framwork</b> 
 
-<b>Technolgies used:</b>
+<b>Technolgies used:</b><br>
 Java, Maven, TestNg, Selenium, Java Mail, Allure Report, Log4j
 
-<b>How to Run Test: </b>
+<b>How to Run Test: </b><br>
 mvn test -Dbrowser=Chrome -Dmail=N
 
 <b>Features </b> <br>
