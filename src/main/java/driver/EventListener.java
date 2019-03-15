@@ -12,6 +12,11 @@ public class EventListener implements WebDriverEventListener{
 
 	public final Logger log = LogManager.getLogger("Log");
 	
+	public String returnTrim(String s) {
+		String s1 = s.substring(s.indexOf(">")+1);
+		return s1.trim();	
+	}
+	
 	@Override
 	public void afterAlertAccept(WebDriver arg0) {
 		// TODO Auto-generated method stub
@@ -26,18 +31,17 @@ public class EventListener implements WebDriverEventListener{
 
 	@Override
 	public void afterChangeValueOf(WebElement arg0, WebDriver arg1, CharSequence[] arg2) {
-		// TODO Auto-generated method stub
-		log.info("Entering "+arg2.toString()+" in "+arg0.toString());
+		log.info("Entering value in "+returnTrim(arg0.toString()));
 	}
 
 	@Override
 	public void afterClickOn(WebElement arg0, WebDriver arg1) {
-		log.info("Clicked on webelement "+arg0.toString());
+		log.info("Clicked on webelement "+returnTrim(arg0.toString()));
 	}
 
 	@Override
 	public void afterFindBy(By arg0, WebElement arg1, WebDriver arg2) {
-		log.info("Found "+arg1.toString());
+		log.info("Found element using "+returnTrim(arg1.toString()));
 	}
 
 	@Override

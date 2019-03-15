@@ -1623,3 +1623,10 @@
 2019-03-14 20:03:28 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
 2019-03-14 20:03:28 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
 2019-03-14 20:03:29 [main] INFO  Log:61 - Stopping the execution
+2019-03-15 12:08:54 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-03-15 12:09:21 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-03-15 12:09:21 [TestNG-test=Test-1] INFO  Log:44 - Found element using id: login-username]
+2019-03-15 12:09:21 [TestNG-test=Test-1] INFO  Log:34 - Entering value in id: login-username]
+2019-03-15 12:09:21 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-03-15 12:09:21 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-03-15 12:09:22 [main] INFO  Log:61 - Stopping the execution
