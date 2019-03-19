@@ -1,5 +1,7 @@
 package smoketest;
 
+import static org.testng.Assert.assertTrue;
+
 import org.testng.annotations.Test;
 
 import base.BaseTestCase;
@@ -12,7 +14,7 @@ public class LoginYahoo extends BaseTestCase
 	@Feature("LoginTest")
 	@Test(testName="Creed",description = "enter username")
 	public void login() {
-		new LoginPageObject(eDriver).enterUsername("adi");
+		new LoginPageObject(eDriver).enterUsername(ex.getData(1, 0, "Search"));
 	}
 	
 }
