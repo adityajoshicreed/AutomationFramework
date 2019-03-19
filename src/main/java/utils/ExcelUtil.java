@@ -20,7 +20,7 @@ public class ExcelUtil {
 	private File src = null;
 	private FileInputStream fis = null;
 	
-	public ExcelUtil() throws IOException {
+	public ExcelUtil(){
 		try {
 			src = new File(Constants.excelPath);
 			fis = new FileInputStream(src);
@@ -30,7 +30,11 @@ public class ExcelUtil {
 			log.debug(e);
 		}
 		finally {
-			fis.close();
+			try {
+				fis.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 		}
 	}
 
