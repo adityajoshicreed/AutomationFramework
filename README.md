@@ -1,4 +1,5 @@
-<b>Automation framwork</b> 
+<b>Automation framwork</b> <br>
+Sample automation framework just for learing purpose.
 
 <b>Technolgies used:</b><br>
 Java, Maven, TestNg, Selenium, Java Mail, Allure Report, Log4j
