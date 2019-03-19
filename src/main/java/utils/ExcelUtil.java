@@ -2,6 +2,7 @@ package utils;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.IOException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -16,15 +17,20 @@ public class ExcelUtil {
 	public XSSFWorkbook wb = null;
 	public XSSFSheet sheet = null;
 	public final Logger log = LogManager.getLogger("Log");
+	private File src = null;
+	private FileInputStream fis = null;
 	
-	public ExcelUtil() {
+	public ExcelUtil() throws IOException {
 		try {
-			File src = new File(Constants.excelPath);
-			FileInputStream fis = new FileInputStream(src);
+			src = new File(Constants.excelPath);
+			fis = new FileInputStream(src);
 			wb = new XSSFWorkbook(fis);
 			log.info("Reading Excel File");
 		} catch (Exception e) {
 			log.debug(e);
+		}
+		finally {
+			fis.close();
 		}
 	}
 
