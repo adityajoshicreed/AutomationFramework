@@ -47,3 +47,4 @@ jobs:
       - run: chmod +x /home/circleci/repo/Drivers/chromedriver
       # run tests!
       - run: mvn clean test -Dbrowser=Chrome -Dmail=N
+      - run: mvn allure:report
