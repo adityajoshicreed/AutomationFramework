@@ -17,7 +17,7 @@ import driver.EventListener;
 import driver.MissingValidMavenArgument;
 import utils.ExcelUtil;
 
-@Listeners(listeners.listeners.class)
+@Listeners(listeners.Listeners.class)
 public class BaseTestCase {
 
 	DriverManager driverManager;

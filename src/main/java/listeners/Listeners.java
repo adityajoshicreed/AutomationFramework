@@ -20,7 +20,7 @@ import utils.MailUtil;
  *         Custom Listeners with logging
  *         </p>
  */
-public class listeners implements ITestListener {
+public class Listeners implements ITestListener {
 
 	public final Logger LOGGER = LogManager.getLogger("Log");
 	MailUtil mail = new MailUtil();
