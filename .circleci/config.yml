@@ -48,3 +48,5 @@ jobs:
       # run tests!
       - run: mvn clean test -Dbrowser=Chrome -Dmail=N
       - run: mvn allure:report
+      - store_test_results:
+            path: /home/circleci/repo/target/site/allure-maven-plugin
