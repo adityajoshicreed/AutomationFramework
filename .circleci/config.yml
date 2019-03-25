@@ -50,3 +50,6 @@ jobs:
       - run: mvn allure:report
       - store_test_results:
             path: /home/circleci/repo/target/surefire-reports/junitreports
+            
+      - store_artifacts:
+          path: /home/circleci/repo/target/site/allure-maven-plugin    
