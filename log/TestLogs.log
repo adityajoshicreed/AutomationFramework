@@ -1829,3 +1829,118 @@
 2019-04-30 13:19:25 [TestNG-test=Test-2] INFO  Log:38 - Entering text in usernamebox as adi
 2019-04-30 13:19:25 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
 2019-04-30 13:19:26 [main] INFO  Log:61 - Stopping the execution
+2019-04-30 13:55:41 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:55:41 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:55:41 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:55:41 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-04-30 13:55:49 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 13:55:49 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:55:50 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:55:50 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:55:50 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:55:50 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:55:53 [TestNG-test=Test-2] INFO  Log:31 - Started the || login ||
+2019-04-30 13:55:53 [TestNG-test=Test-2] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:55:53 [TestNG-test=Test-2] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:55:53 [TestNG-test=Test-2] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:55:53 [TestNG-test=Test-2] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:55:53 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:55:56 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 13:55:56 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:55:56 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:55:56 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:55:56 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:55:56 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:55:57 [main] INFO  Log:61 - Stopping the execution
+2019-04-30 13:57:21 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:57:21 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:57:21 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:57:21 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-04-30 13:57:29 [TestNG-test=Test-2] INFO  Log:31 - Started the || login ||
+2019-04-30 13:57:29 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 13:57:29 [TestNG-test=Test-2] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:57:29 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:57:29 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:57:29 [TestNG-test=Test-2] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:57:30 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:57:30 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:57:30 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:57:30 [TestNG-test=Test-2] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:57:30 [TestNG-test=Test-2] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:57:30 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:57:36 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 13:57:36 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:57:36 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:57:36 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:57:36 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:57:36 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:57:37 [main] INFO  Log:61 - Stopping the execution
+2019-04-30 13:57:51 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:57:51 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:57:51 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:57:51 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-04-30 13:58:00 [TestNG-test=Test-3] INFO  Log:31 - Started the || login ||
+2019-04-30 13:58:00 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 13:58:00 [TestNG-test=Test-2] INFO  Log:31 - Started the || login ||
+2019-04-30 13:58:00 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:58:00 [TestNG-test=Test-3] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:58:00 [TestNG-test=Test-2] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:58:00 [TestNG-test=Test-3] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:58:00 [TestNG-test=Test-2] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:58:00 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:58:01 [TestNG-test=Test-3] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:58:01 [TestNG-test=Test-3] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:58:01 [TestNG-test=Test-3] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:58:01 [TestNG-test=Test-2] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:58:01 [TestNG-test=Test-2] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:58:01 [TestNG-test=Test-2] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:58:01 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:58:01 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:58:01 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:58:02 [main] INFO  Log:61 - Stopping the execution
+2019-04-30 13:58:15 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:58:15 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:58:15 [main] INFO  Log:28 - Reading Excel File
+2019-04-30 13:58:15 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-04-30 13:58:23 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 13:58:23 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:58:23 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:58:23 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:58:23 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:58:23 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:58:29 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 13:58:29 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:58:29 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:58:29 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:58:29 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:58:29 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:58:35 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 13:58:35 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 13:58:35 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 13:58:35 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 13:58:35 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 13:58:35 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 13:58:36 [main] INFO  Log:61 - Stopping the execution
+2019-04-30 14:00:01 [main] INFO  Log:56 - Started the test on browser Chrome
+2019-04-30 14:00:02 [TestNG-test=Test-1] INFO  Log:28 - Reading Excel File
+2019-04-30 14:00:10 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 14:00:10 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 14:00:10 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 14:00:10 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 14:00:10 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 14:00:10 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 14:00:11 [TestNG-test=Test-1] INFO  Log:28 - Reading Excel File
+2019-04-30 14:00:17 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 14:00:17 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 14:00:17 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 14:00:17 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 14:00:17 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 14:00:17 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 14:00:18 [TestNG-test=Test-1] INFO  Log:28 - Reading Excel File
+2019-04-30 14:00:23 [TestNG-test=Test-1] INFO  Log:31 - Started the || login ||
+2019-04-30 14:00:23 [TestNG-test=Test-1] INFO  Log:46 - Returning data as adi from Excel File
+2019-04-30 14:00:23 [TestNG-test=Test-1] INFO  Log:47 - Found element using id: login-username]
+2019-04-30 14:00:23 [TestNG-test=Test-1] INFO  Log:37 - Entering value in id: login-username]
+2019-04-30 14:00:23 [TestNG-test=Test-1] INFO  Log:38 - Entering text in usernamebox as adi
+2019-04-30 14:00:23 [TestNG-test=Test-1] INFO  Log:36 - Test Passed Successfully
+2019-04-30 14:00:24 [main] INFO  Log:61 - Stopping the execution

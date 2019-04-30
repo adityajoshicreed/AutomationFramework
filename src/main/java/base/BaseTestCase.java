@@ -23,10 +23,11 @@ public class BaseTestCase {
 	private String browserName = System.getProperty("browser");
 	public EventFiringWebDriver eDriver;
 	public EventListener handle;
-	protected ExcelUtil ex = new ExcelUtil();
+	protected ExcelUtil ex;
 
 	@BeforeMethod
 	public void beforeMethod(Method method) throws MissingValidMavenArgument {
+		ex = new ExcelUtil();
 		driver = gd.getDriver(browserName,method.getName());
 		eDriver=new EventFiringWebDriver(driver);
 		handle = new EventListener();

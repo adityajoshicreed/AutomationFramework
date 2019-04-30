@@ -23,7 +23,7 @@ public class DriverDefine {
 	public WebDriver getChrome() {
 		System.setProperty("webdriver.chrome.driver", Constants.chromePath);
 		ChromeOptions opt = new ChromeOptions();
-		opt.addArguments("--headless");
+//		opt.addArguments("--headless");
 		opt.addArguments("--no-sandbox");
 		opt.addArguments("--disable-dev-shm-usage");
 		driver = new ChromeDriver(opt);
@@ -55,6 +55,7 @@ public class DriverDefine {
 		return driver;
 	}
 	
+	@SuppressWarnings("deprecation")
 	public WebDriver getGrid() {
 		ChromeOptions options = new ChromeOptions();
 		options.setCapability(CapabilityType.PLATFORM, org.openqa.selenium.Platform.WINDOWS);
