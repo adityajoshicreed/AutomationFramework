@@ -7,22 +7,19 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Listeners;
 
-import driver.DriverFactory;
-import driver.DriverManager;
 import driver.EventListener;
+import driver.GenerateDriver;
 import driver.MissingValidMavenArgument;
 import utils.ExcelUtil;
 
 @Listeners(listeners.Listeners.class)
 public class BaseTestCase {
 
-	DriverManager driverManager;
 	public WebDriver driver;
-	DriverFactory df = new DriverFactory();
+	GenerateDriver gd = new GenerateDriver();
 	private String browserName = System.getProperty("browser");
 	public EventFiringWebDriver eDriver;
 	public EventListener handle;
@@ -30,9 +27,7 @@ public class BaseTestCase {
 
 	@BeforeMethod
 	public void beforeMethod(Method method) throws MissingValidMavenArgument {
-		driverManager = df.getManager(browserName);
-		driverManager.setMethodName(method.getName());
-		driver = driverManager.getDriver();
+		driver = gd.getDriver(browserName,method.getName());
 		eDriver=new EventFiringWebDriver(driver);
 		handle = new EventListener();
 		eDriver.register(handle);
@@ -41,7 +36,7 @@ public class BaseTestCase {
 	@AfterMethod
 	public void afterTest(ITestResult result) {
 		sauceTestStatus(result);
-		driverManager.quitDriver();
+		gd.driverQuit();
 	}
 
 	public void sauceTestStatus(ITestResult result) {
