@@ -46,7 +46,7 @@ jobs:
       - run: sudo dpkg -i google-chrome.deb
       - run: chmod +x /home/circleci/repo/Drivers/chromedriver
       # run tests!
-      - run: mvn clean test -Dbrowser=Chrome -Dmail=N
+      - run: mvn clean test -Dbrowser=Chrome -Dmail=N -DthreadCount=3
       - run: mvn allure:report
       - store_test_results:
             path: /home/circleci/repo/target/surefire-reports/junitreports
