@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
@@ -33,10 +32,8 @@ public class DriverDefine {
 	
 	public WebDriver getFireFox() {
 		System.setProperty("webdriver.gecko.driver", Constants.firefoxPath);
-		FirefoxOptions options = new FirefoxOptions();
-		options.setLegacy(true);
-		driver = new FirefoxDriver(options);
-		driver.get(Constants.url);
+		driver = new FirefoxDriver();
+		driver.navigate().to(Constants.url);
 		return driver;
 	}
 	
@@ -59,7 +56,6 @@ public class DriverDefine {
 	public WebDriver getGrid() {
 		ChromeOptions options = new ChromeOptions();
 		options.setCapability(CapabilityType.PLATFORM, org.openqa.selenium.Platform.WINDOWS);
-		options.setCapability(CapabilityType.BROWSER_NAME, "chrome");
 		try {
 			driver = new RemoteWebDriver(new URL(URL_GRID), options);
 			driver.get(Constants.url);

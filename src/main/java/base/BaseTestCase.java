@@ -24,7 +24,7 @@ public class BaseTestCase {
 	public EventFiringWebDriver eDriver;
 	public EventListener handle;
 	protected ExcelUtil ex;
-
+	
 	@BeforeMethod
 	public void beforeMethod(Method method) throws MissingValidMavenArgument {
 		ex = new ExcelUtil();
@@ -37,9 +37,10 @@ public class BaseTestCase {
 	@AfterMethod
 	public void afterTest(ITestResult result) {
 		sauceTestStatus(result);
+		eDriver.unregister(handle);
 		gd.driverQuit();
 	}
-
+	
 	public void sauceTestStatus(ITestResult result) {
 		if (browserName.equals("ChromeSauce")) {
 			((JavascriptExecutor) driver)

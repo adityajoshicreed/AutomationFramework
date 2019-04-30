@@ -16,7 +16,7 @@ public class Constants {
 		
 		public final static String browserName = System.getProperty("browser");
 		public final static String chromePath = getDriverPath();
-		public final static String firefoxPath = "C:/AutomationDrivers/geckodriver.exe";
+		public final static String firefoxPath = System.getProperty("user.dir")+"/Drivers/geckodriver.exe";
 		public final static String url = "https://login.yahoo.com/";
 		public final static int wait = 10;
 		public final static String excelPath = System.getProperty("user.dir")+"/src/test/resources/data.xlsx";
