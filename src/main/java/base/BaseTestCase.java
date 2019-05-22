@@ -6,14 +6,13 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.testng.ITestResult;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Listeners;
+import org.testng.annotations.*;
 
 import driver.EventListener;
 import driver.GenerateDriver;
 import driver.MissingValidMavenArgument;
 import utils.ExcelUtil;
+import utils.ReportUtil;
 
 @Listeners(listeners.Listeners.class)
 public class BaseTestCase {
@@ -24,6 +23,13 @@ public class BaseTestCase {
 	public EventFiringWebDriver eDriver;
 	public EventListener handle;
 	protected ExcelUtil ex;
+	protected ReportUtil report;
+
+	@BeforeClass
+	public void earlyStartup(){
+		report = new ReportUtil();
+		report.startReport();
+	}
 	
 	@BeforeMethod
 	public void beforeMethod(Method method) throws MissingValidMavenArgument {
@@ -32,15 +38,22 @@ public class BaseTestCase {
 		eDriver=new EventFiringWebDriver(driver);
 		handle = new EventListener();
 		eDriver.register(handle);
+		report.createTest(method.getName());
 	}
 
 	@AfterMethod
 	public void afterTest(ITestResult result) {
+        report.closeTest(result,driver);
 		sauceTestStatus(result);
 		eDriver.unregister(handle);
 		gd.driverQuit();
 	}
-	
+
+	@AfterClass
+	public void lateTearDown(){
+		report.endReport();
+	}
+
 	public void sauceTestStatus(ITestResult result) {
 		if (browserName.equals("ChromeSauce")) {
 			((JavascriptExecutor) driver)

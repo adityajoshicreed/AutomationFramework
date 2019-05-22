@@ -7,6 +7,7 @@ import org.openqa.selenium.support.FindBy;
 
 import base.BasePageObject;
 import io.qameta.allure.Step;
+import utils.ReportUtil;
 
 
 public class SearchPageObject extends BasePageObject {
@@ -14,8 +15,8 @@ public class SearchPageObject extends BasePageObject {
 	@FindBy(xpath = "//input[@name='q']")
 	private WebElement searchBox;
 
-	public SearchPageObject(WebDriver driver) {
-		super(driver);
+	public SearchPageObject(WebDriver driver, ReportUtil report) {
+		super(driver,report);
 	}
 
 	@Step("Enter {searchText} in search field")

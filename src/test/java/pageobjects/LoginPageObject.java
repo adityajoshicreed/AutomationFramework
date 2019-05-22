@@ -6,14 +6,15 @@ import org.openqa.selenium.support.FindBy;
 
 import base.BasePageObject;
 import io.qameta.allure.Step;
+import utils.ReportUtil;
 
 public class LoginPageObject extends BasePageObject{
 
 	@FindBy(id="login-username")
 	private WebElement username;
 	
-	public LoginPageObject(WebDriver driver) {
-		super(driver);
+	public LoginPageObject(WebDriver driver, ReportUtil report) {
+		super(driver,report);
 	}
 
 	@Step("Entering username")

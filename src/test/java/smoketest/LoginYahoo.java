@@ -14,7 +14,8 @@ public class LoginYahoo extends BaseTestCase
 	@Feature("LoginTest")
 	@Test(testName="Creed",description = "enter username")
 	public void login() {
-		new LoginPageObject(eDriver).enterUsername(ex.getData(1, 0, "Search"));
+		new LoginPageObject(eDriver,report).enterUsername(ex.getData(1, 0, "Search"));
+		assertTrue(false);
 	}
 	
 }
