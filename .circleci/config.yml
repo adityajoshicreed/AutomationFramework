@@ -52,4 +52,7 @@ jobs:
             path: /home/circleci/repo/target/surefire-reports/junitreports
             
       - store_artifacts:
-          path: /home/circleci/repo/target/site/allure-maven-plugin    
+          path: /home/circleci/repo/target/site/allure-maven-plugin
+
+      - store_artifacts:
+          path: /home/circleci/repo/target/myReport.html
